@@ -1,4 +1,4 @@
-package com.sandbox.java8.ch01;
+package com.ch01;
 
 import java.math.BigDecimal;
 
